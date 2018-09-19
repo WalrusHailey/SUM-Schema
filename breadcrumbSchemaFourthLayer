@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "SUM賞車網",
+    "item": "https://www.sum.com.tw/"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "買二手中古車",
+    "item": "https://www.sum.com.tw/buycar-01.php"
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "三菱 MITSUBISHI 二手中古車",
+    "item": "https://www.sum.com.tw/carsearch.php?v=3&ctp_prt=&price1=0&price2=220&yearrange=&cararea=&carregion=&cartype=&carcolor=&brand=MITSUBISHI&model=&year1=1990&year2=2018&doors=&q=&show_type=&carrecommend=&comp_goldstore=&discount=&page="
+  },{
+    "@type": "ListItem",
+    "position": 4,
+    "name": "三菱 MITSUBISHI COLT PLUS 二手中古車",
+    "item": "https://www.sum.com.tw/carsearch.php?v=3&brand=MITSUBISHI&model=COLT%20PLUS&price1=0&price2=220&year1=1990&year2=2018&cararea=&carcolor=&fuel=&doors=&trans=&seat=&cartype=&cc1=&cc2=&protection=&carrecommend=&q=&ctp_prt="
+  },{
+    "@type": "ListItem",
+    "position": 5,
+    "name": "三菱 MITSUBISHI COLT PLUS 2010年 台南市二手中古車",
+    "item": "https://www.sum.com.tw/carinfo-368339.php"
+  }]
+}
+</script>
