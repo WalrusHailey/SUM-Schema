@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ProfessionalService",
+  "image": [
+    "https://example.com/photos/1x1/photo.jpg"
+    ],
+    "@id": "https://www.sum.com.tw/repair/StrongHold236_VW-%E5%8B%9D%E9%81%94%E4%BF%9D%E4%BF%AE.html",
+  "name": "勝達保修－SUM汽車保修聯盟",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "克武路150號",
+    "addressLocality": "三民區",
+    "addressRegion": "高雄市",
+    "postalCode": "807",
+    "addressCountry": "TW"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 22.6369671,
+    "longitude": 120.3293765
+  },
+  "priceRange": "$$",
+  "url": "https://www.sum.com.tw/repair/StrongHold236_VW-%E5%8B%9D%E9%81%94%E4%BF%9D%E4%BF%AE.html",
+  "telephone": "+88673859979",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "09:00",
+      "closes": "20:00"
+    }
+  ]
+}
+</script>
