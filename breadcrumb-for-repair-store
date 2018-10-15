@@ -16,7 +16,7 @@
     "@type": "ListItem",
     "position": 3,
     "name": "高雄市推薦汽車維修保養廠",
-    "item": "https://www.sum.com.tw/repair/StrongHold236_VW-%E5%8B%9D%E9%81%94%E4%BF%9D%E4%BF%AE.html"
+    "item": ""
     //這一層的網址需要等待搜尋系統改為「會依據搜尋條件不同而變更網址」之後，才能改變
   },{
     "@type": "ListItem",
