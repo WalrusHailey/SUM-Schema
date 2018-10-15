@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "SUM賞車網",
+    "item": "https://www.sum.com.tw/"
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "汽車維修/保養廠",
+    "item": "https://www.sum.com.tw/repair/StrongHoldSearch.html"
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "高雄市 汽車維修 雪鐵龍CITROEN 推薦汽車維修廠",
+    "item": ""
+    //這一層的網址需要等待搜尋系統改為「會依據搜尋條件不同而變更網址」之後，才能改變
+  }
+</script>
