@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ProfessionalService",
+  "image": [
+    "https://www.sum.com.tw/comp_pics//720x520/93013-pict1-201862315315288.jpg"
+    ],
+    "@id": "https://www.sum.com.tw/storeinfo-93013.php",
+  "name": "快立汽車SUM車商聯盟",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "基金一路119號",
+    "addressLocality": "安樂區",
+    "addressRegion": "基隆市",
+    "postalCode": "204",
+    "addressCountry": "TW"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.1386061,
+    "longitude": 121.7161814
+  },
+  "priceRange": "$$",
+  "url": "https://www.sum.com.tw/storeinfo-93013.php",
+  "telephone": "+886224328619",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "09:00",
+      "closes": "20:00"
+    }
+  ]
+}
+</script>
