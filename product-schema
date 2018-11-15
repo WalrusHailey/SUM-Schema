@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "MITSUBISHI VERYCA貨車二手車", //這邊請寫產品名稱
+  "image": [
+    "https://www.sum.com.tw/carpics/1151480036/720x520/20180605163238760_1151480036.JPG"
+   ], //這邊請放產品或系列品圖片
+  "description": "MITSUBISHI VERYCA貨車 100%原鈑件，僅跑7萬，SUM+YES雙認證，可加裝3面蓬子，超美~", //這邊請寫產品或解決方案介紹
+  "brand": {
+    "@type": "Organization",
+    "name": "SUM賞車網"
+  },
+    "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TWD",
+    "price": "269000",
+    "itemCondition": "http://schema.org/UsedCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "新台灣汽車"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "100"
+  } //這邊若有網友所做Review，建議可以放上來
+}
+</script>
